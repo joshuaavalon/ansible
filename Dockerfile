@@ -1,4 +1,4 @@
-FROM debian:lts
+FROM debian:stable
 
 WORKDIR /ansible
 
